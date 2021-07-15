@@ -1,5 +1,5 @@
-# brightness-control
-Change laptop brightness with node js and arduino
+# Brightness-control || Adaptive brightness
+Change laptop brightness automatically based on the current lighting conditions with node js and arduino  
 ## modules used
 * serialport
 * brightness
