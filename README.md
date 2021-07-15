@@ -3,11 +3,11 @@ Change laptop brightness automatically based on the current lighting conditions 
 ## modules used
 * serialport
 * brightness
-# Components Used
+## Components Used
 * Arduino
 * LDR
 * 3k ohm resistor
 * Jumper wires
 
-# Circuit
+## Circuit
 <img src="/image_2021-07-15_232940.png" alt="circuit" width="500" />
